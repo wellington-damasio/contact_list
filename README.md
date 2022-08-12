@@ -1,7 +1,7 @@
 # Contact List
-![Desktop - Home](/project-imgs/home.png)
-![Desktop - Add Contact](/project-imgs/add.png)
-![Desktop - Edit Contact](/project-imgs/edit.png)
+![Desktop - Home](./project_imgs/home.png)
+![Desktop - Add Contact](./project_imgs/add.png)
+![Desktop - Edit Contact](./project_imgs/edit.png)
 
 ## About the Project
 - This is a project from the PHP course made by prof. Matheus Battisti that I took on Udemy.
