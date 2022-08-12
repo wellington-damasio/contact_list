@@ -1,0 +1,111 @@
+body {
+	background-color: whitesmoke;
+}
+
+.navbar-brand > img{
+	width: 3.2rem;
+}
+
+.main__title {
+	text-align: center;
+	margin-top: 2rem;
+	margin-bottom: 1.5rem;
+}
+
+.table {
+	max-width: 60rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.list-text--empty {
+	text-align: center;
+}
+
+.session-msg {
+	color:  #155724;
+	background-color: #D4EDDA;
+	border: 1px solid #C3E6CB;
+	padding: .8rem;
+	text-align: center;
+	width: 100%;
+	max-width: 60rem;
+	margin: 2rem auto;
+}
+
+@media (max-width: 480px) {	
+	#home-link {
+		display: none;
+	}
+}
+/*--------------------------------------------------
+                  Actions Table Column
+--------------------------------------------------*/
+.actions {
+	display: flex;
+	gap: .8rem;
+}
+
+.check-icon {
+	color: seagreen;
+}
+
+.edit-icon {
+	color: royalblue;
+}
+
+.delete-icon {
+	color:  indianred;
+}
+
+.delete-btn {
+	border: none;
+	background-color: transparent;
+	padding: 0;
+}
+
+/*--------------------------------------------------
+                  Show Contact Page
+--------------------------------------------------*/
+.view-contact__container {
+	max-width: 40rem;
+	margin-top: 1.5rem;
+}
+
+.view-contact__container > p{
+	padding: 0 1rem;
+}
+
+.bold {
+	font-weight: 700;
+	margin-bottom: 0;
+}
+
+/*--------------------------------------------------
+                       Backlink
+--------------------------------------------------*/
+.backLink {
+	font-size: 1.1rem;
+	border: 2px solid #007BFF;
+	color: #007BFF;
+	border-radius: .2rem;
+	padding: .2em .4em;
+	text-decoration: none;
+}
+
+/*--------------------------------------------------
+         Add Contact and Edit Contact Pages
+--------------------------------------------------*/
+.addContact__container {
+	margin-top: 1.5rem;
+	max-width: 40rem;
+}
+
+.editContact__container {
+	margin-top: 1.5rem;
+	max-width: 40rem;
+}
+
+/*--------------------------------------------------
+                   Add Contact Page
+--------------------------------------------------*/
